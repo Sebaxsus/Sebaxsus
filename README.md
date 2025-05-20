@@ -70,7 +70,7 @@
 
 ###
 <div style="display:flex;flex-direction:row;gap:1rem;padding:0.25rem;border:1px solid white;">
-  <img src="https://raw.githubusercontent.com/Sebaxsus/Sebaxsus/output/snake.svg" alt="Snake animation" width="680"/>
+  <img src="https://raw.githubusercontent.com/Sebaxsus/Sebaxsus/output/snake.svg" alt="Snake animation" width="650"/>
   <img align="right" height="130" src="https://cdn.7tv.app/emote/01G044NFSG00033Y3V2VD0Z8KK/4x.avif"  />
 </div>
 

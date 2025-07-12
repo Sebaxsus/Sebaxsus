@@ -26,11 +26,11 @@ I've worked on Full Stack applications, IoT integrations, system automation, and
 <ul>
   <li><strong>Lenguajes / Languages:</strong> C++, Python, Java, JavaScript, C#, AHK</li>
   <li><strong>Frontend:</strong> React, Astro, TailwindCSS, SVG personalizados, Micro-Frontend</li>
-  <li><strong>Backend:</strong> Python (REST, WebSockets), Node.js + Express, MySQL</li>
-  <li><strong>Testing y Automatización:</strong> Pytest, pytest-asyncio, Playwright, Subprocesos Python</li>
+  <li><strong>Backend:</strong> Python (REST, WebSockets), Node.js + Express, MySQL, SQLite3</li>
+  <li><strong>Testing y Automatización:</strong> Pytest, pytest-asyncio, Playwright, Logger, Jest</li>
   <li><strong>Sistemas y Redes:</strong> Linux, Wireshark, WebSocket Servers, ESP32</li>
   <li><strong>Microcontroladores y Electrónica:</strong> Arduino, HID Devices, Potenciómetros, Sensores Hall</li>
-  <li><strong>Otros:</strong> FFmpeg, Discord.py, yt-dlp, Documentación técnica + de usuario</li>
+  <li><strong>Otros:</strong> FFmpeg, Discord.py, yt-dlp, Subprocesos Python, Documentación técnica + de usuario</li>
 </ul>
 
 ---
@@ -115,15 +115,17 @@ Manage resources asynchronously and avoid GIL locks using threads.
 
 Sistema de control físico (colectivo, cíclico, pedales) para simulación precisa de helicópteros. Construido con Arduino, sensores efecto Hall, potenciómetros y encoders.
 
+Physical control system (collective, cyclic, pedals) for precise helicopter simulation. Built with Arduino, Hall effect sensors, potentiometers, and encoders.
+
 > *Tecnologías*: Arduino, HID, Electrónica, Diseño de hardware
 
 ---
 
 #### 🔹 **Proyectos con Arduino**
 
-- Reloj digital con display de 7 segmentos
+- Reloj digital con display de 7 segmentos / Digital clock with 7-segment display
 
-- Red de sensores con ESP32 y análisis de tráfico vía Wireshark
+- Red de sensores con ESP32 y análisis de tráfico vía Wireshark / Sensor network with ESP32 and traffic analysis via Wireshark
 
 ---
 
@@ -145,6 +147,18 @@ Ver en: 🌐 [Portafolio](https://portafolio-astro-phi.vercel.app/)
 <h3>ENGLISH 🇺🇸</h3>
 <p>
   All my projects include technical documentation and user manuals for easier understanding, deployment, and maintenance.
+</p>
+
+---
+###
+
+<h2>🧭 En constante aprendizaje / Always learning</h2>
+
+<p>
+  Me mantengo en constante mejora, aprendiendo nuevas arquitecturas, herramientas y metodologías para seguir construyendo software que impacte en el mundo real.
+</p>
+<p>
+  I'm constantly improving, learning new architectures, tools, and methodologies to continue building software that impacts the real world.
 </p>
 
 <hr/>

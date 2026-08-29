@@ -1,20 +1,12 @@
-<style>
-  h2 {
-    padding-bottom: 24px;
-    text-align: center;
-    margin-bottom: 2rem;
-  }
-
-  h3 {
-    text-indent: 2ch;
-  }
-</style>
-
-<h2>Juan Sebastián García Redondo</h2>
+<h2 align="center">Juan Sebastián García Redondo</h2>
+<br/>
 
 ###
 
-<h2>Sobre mí / About Me</h2>
+<h2 align="center">Sobre mí / About Me</h2>
+<br/>
+
+###
 
 <h3>ESPAÑOL 🇪🇸</h3>
 <p>
@@ -37,7 +29,11 @@ My main drive is solving everyday problems by building tools with software and h
 ---
 ###
 
-<h2>Educación / Education</h2>
+<br/>
+<h2 align="center">Educación / Education</h2>
+<br/>
+
+###
 
 <ul>
   <li><strong>Ingeniería de Software</strong> — Institución Universitaria de Colombia (IUC) - En práctica profesional (último requisito para graduarme) / Currently in professional internship (final graduation requirement)</li>
@@ -47,7 +43,11 @@ My main drive is solving everyday problems by building tools with software and h
 ---
 ###
 
-<h2>Tecnologías / Technologies</h2>
+<br/>
+<h2 align="center">Tecnologías / Technologies</h2>
+<br/>
+
+###
 
 <ul>
   <li><strong>Lenguajes / Languages:</strong> Python, JavaScript, TypeScript, Rust, Dart, C++ (Arduino), C#, AutoHotKey (AHK)</li>
@@ -63,7 +63,11 @@ My main drive is solving everyday problems by building tools with software and h
 ---
 ###
 
-<h2>Arquitectura y Buenas Prácticas / Architecture & Best Practices</h2>
+<br/>
+<h2 align="center">Arquitectura y Buenas Prácticas / Architecture & Best Practices</h2>
+<br/>
+
+###
 
 <ul>
   <li><strong>Arquitectura por capas</strong> (Domain / Infrastructure / Interface) en proyectos Python, inspirada en Clean/Hexagonal Architecture.</li>
@@ -76,7 +80,11 @@ My main drive is solving everyday problems by building tools with software and h
 ---
 ###
 
-<h2>Proyectos Destacados / Featured Projects</h2>
+<br/>
+<h2 align="center">Proyectos Destacados / Featured Projects</h2>
+<br/>
+
+###
 
 ### 🔹 Transcripción de audio + RAG local-first (Rust)
 
@@ -157,7 +165,11 @@ Ver en: 🌐 [Portafolio](https://portafolio-astro-phi.vercel.app/)
 ---
 ###
 
-<h2>🌐 Contribuciones Open Source</h2>
+<br/>
+<h2 align="center">🌐 Contribuciones Open Source</h2>
+<br/>
+
+###
 
 <ul>
   <li>
@@ -172,7 +184,11 @@ Ver en: 🌐 [Portafolio](https://portafolio-astro-phi.vercel.app/)
 
 ###
 
-<h2>📄 Documentación / Documentation</h2>
+<br/>
+<h2 align="center">📄 Documentación / Documentation</h2>
+<br/>
+
+###
 
 <h3>ESPAÑOL 🇪🇸</h3>
 <p>
@@ -189,7 +205,11 @@ Ver en: 🌐 [Portafolio](https://portafolio-astro-phi.vercel.app/)
 ---
 ###
 
-<h2>🧭 En constante aprendizaje / Always learning</h2>
+<br/>
+<h2 align="center">🧭 En constante aprendizaje / Always learning</h2>
+<br/>
+
+###
 
 <p>
   Me mantengo en constante mejora, aprendiendo nuevas arquitecturas, herramientas y metodologías para seguir construyendo software que impacte en el mundo real.

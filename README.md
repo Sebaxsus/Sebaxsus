@@ -1,4 +1,16 @@
-<h2 align="left">Juan Sebastián García - Estudiante de Ingeniería de Software.</h2>
+<style>
+  h2 {
+    padding-bottom: 24px;
+    text-align: center;
+    margin-bottom: 2rem;
+  }
+
+  h3 {
+    text-indent: 2ch;
+  }
+</style>
+
+<h2>Juan Sebastián García Redondo</h2>
 
 ###
 
@@ -66,7 +78,7 @@ My main drive is solving everyday problems by building tools with software and h
 
 <h2>Proyectos Destacados / Featured Projects</h2>
 
-#### 🔹 Transcripción de audio + RAG local-first (Rust)
+### 🔹 Transcripción de audio + RAG local-first (Rust)
 
 **[SpeechToTextRust](https://github.com/Sebaxsus/SpeechToTextRust)** (backend) + **[Trasncripts-UI](https://github.com/Sebaxsus/Trasncripts-UI)** (frontend)
 
@@ -80,7 +92,7 @@ System that transcribes long meeting recordings (~5h average) using Whisper runn
 
 ---
 
-#### 🔹 Ecosistema IoT: sensor de gas ESP32 → servidor → dashboard → app móvil
+### 🔹 Ecosistema IoT: sensor de gas ESP32 → servidor → dashboard → app móvil
 
 **[ESP32-PythonWebSocketServer](https://github.com/Sebaxsus/ESP32-PythonWebSocketServer)** + **[PaginaDashboardSensor](https://github.com/Sebaxsus/PaginaDashboardSensor)** + **[proyectoFinal-Moviles](https://github.com/Sebaxsus/proyectoFinal-Moviles)**
 
@@ -94,7 +106,7 @@ Full hardware-to-interface pipeline: it starts with an ESP32 WROOM that streams 
 
 ---
 
-#### 🔹 App de finanzas del hogar, offline-first
+### 🔹 App de finanzas del hogar, offline-first
 
 **[Mi_Primer_Electron](https://github.com/Sebaxsus/Mi_Primer_Electron)** (desktop) + **[Server-App-Facturas](https://github.com/Sebaxsus/Server-App-Facturas)** (servidor)
 
@@ -112,7 +124,7 @@ The frontend, designed to work both locally and across a network of users manage
 
 ---
 
-#### 🔹 Plataforma Fullstack de Animes y Mangas
+### 🔹 Plataforma Fullstack de Animes y Mangas
 
 **[MiPaginaReact](https://github.com/Sebaxsus/MiPaginaReact)** (frontend) + **[PaginaAnimes-Back](https://github.com/Sebaxsus/PaginaAnimes-Back)** (backend)
 
